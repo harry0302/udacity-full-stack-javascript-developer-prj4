@@ -4,9 +4,6 @@
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-# Hosting link
-http://harry2222.s3-website-us-east-1.amazonaws.com
-
 ### Dependencies
 
 ```
@@ -53,6 +50,7 @@ The e2e tests are using Protractor and Jasmine.
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
 
-## License
+# Hosting link
 
-[License](LICENSE.txt)
+API: http://udagram-api-dev.us-east-1.elasticbeanstalk.com
+FE: http://harry2222.s3-website-us-east-1.amazonaws.com
